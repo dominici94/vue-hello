@@ -7,7 +7,8 @@ const app = new Vue(
     {
         el: '#root',
         data: {
-            title: 'Primo titolo con Vue'
+            title: 'Primo titolo con Vue',
+            miaImg: 'https://unsplash.it/600/300?image=171'
         }
     }
 );
